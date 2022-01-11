@@ -1,5 +1,6 @@
 # Mirco
-Hi, my name is **Mirco** and I was born in Lübeck and I am learning Web Development.
+Hi, my name is **Mirco** and I am from Lübeck. 
+I am currently learning Web Development at [neuefische](https://www.neuefische.de/).
 
 # Interests:
 - Programming

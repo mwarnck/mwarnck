@@ -7,7 +7,8 @@ I am currently learning Web Development at [neuefische](https://www.neuefische.d
 # Interests:
 - Programming
 - Soccer
+- Sports
 
 # Social Media: 
-[Facebook](www.facebook.de) <br>
-[Instagram](www.instagram.de) 
+[LinkedIn](www.linkedin.com/in/mircowarnck) <br>
+[XING](www.xing.com/profile/Mirco_Warnck/cv) 
